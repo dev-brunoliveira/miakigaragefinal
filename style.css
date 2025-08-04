@@ -346,3 +346,6 @@ img {
     display: none;
   }
 }
+    .paragrafo-personalizado {
+      font-size: 18px;
+    }
